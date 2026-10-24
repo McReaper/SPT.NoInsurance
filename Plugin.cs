@@ -4,7 +4,7 @@ using NoInsurance.Patches;
 
 namespace NoInsurance
 {
-    [BepInPlugin("com.vibrantrida.noinsurance", "No Insurance", "2.0.0")]
+    [BepInPlugin("com.mcreaper.noinsurance", "No Insurance", "2.0.0")]
     [BepInDependency("com.SPT.core", "4.0.0")]
     public class Plugin : BaseUnityPlugin
     {
